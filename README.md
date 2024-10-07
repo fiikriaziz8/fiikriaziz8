@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fikri Maulana Aziz</h1>
+<h1 align="center">Hello there 👋, I'm Fikri Maulana Aziz</h1>
 <h3 align="center">Information System Fresh Graduate | Web & Mobile Developer | Data Engineer</h3>
 
 - 🔭 I’m currently working at **Satu Data DSID Unair (Intern)** as a **Data Warehouse Administrator**
 
+- 💬 Ask me about **Web-dev, Mobile-Dev, and Data-Eng**
+
 - 🤝 I’m looking for **full time opportunity at IT-field**
 
-- 👨‍💻 You can see my personal portfolio at [Fikri's Portfolio/](https://portfolio-fikrimaziz.netlify.app/)
-
-- 💬 Ask me about **Web-dev, Mobile-Dev, and Data-Eng**
+- 👨‍💻 You can see my personal portfolio at [Fikri's Portfolio](https://portfolio-fikrimaziz.netlify.app/)
 
 - 📫 Contact me at **fikriaziz1472@gmail.com**
 
